@@ -7,20 +7,26 @@ main:
   - name: Home
     url: '/'
     weight: 10
-  - name: Courses
+  - name: Database Categories
     weight: 20
-    identifier: courses
+    identifier: dbcat
   - name: Data science
     PageRef: course/data-science/_index.md
     weight: 10
-    parent: courses
+    parent: dbcat
   - name: Robotics
     PageRef: course/robotics/_index.md
     weight: 20
-    parent: courses
-  - name: Blog
-    PageRef: post/_index.md
-    weight: 30
-  - name: Contact
+    parent: dbcat
+  - name: About us
     PageRef: contact/index.md
-    weight: 60
+    weight: 30
+    identifier: aboutus
+  - name: Team
+    PageRef: course/data-science/_index.md
+    weight: 10
+    parent: aboutus
+  - name: HEADS @ FMUP
+    PageRef: course/robotics/_index.md
+    weight: 20
+    parent: aboutus
