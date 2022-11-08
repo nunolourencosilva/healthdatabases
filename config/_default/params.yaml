@@ -1,25 +1,20 @@
-# SITE SETUP
-# Guide: https://wowchemy.com/docs/getting-started/
-# Documentation: https://wowchemy.com/docs/
 # This file is formatted using YAML syntax - learn more at https://learnxinyminutes.com/docs/yaml/
 
 # Appearance
-
 appearance:
   theme_day: custom
   theme_night:
   font: minimal
-  font_size: L
+  font_size: S
 
 # SEO
-
 marketing:
   seo:
     site_type: Organization
     local_business_type: ''
     org_name: ''
-    description: 'A highly-customizable Hugo learning theme powered by Wowchemy website builder.'
-    twitter: 'wowchemy'
+    description: 'Health databases in Portugal - Compendium'
+    twitter: ''
   analytics:
     google_analytics: ''
     baidu_tongji: ''
@@ -28,7 +23,6 @@ marketing:
     baidu: ''
 
 # Site header
-
 header:
   navbar:
     enable: true
@@ -40,10 +34,9 @@ header:
     highlight_active_link: true
 
 # Site footer
-
 footer:
   copyright:
-    notice: '© {year} Me. This work is licensed under {license}'
+    notice: '© {2022} Nuno Lourenço Silva. This work is licensed under {license}'
     license:
       enable: true
       allow_derivatives: false
@@ -51,13 +44,11 @@ footer:
       allow_commercial: false
 
 # Localization
-
 locale:
   date_format: 'Jan 2, 2006'
   time_format: '3:04 PM'
 
 # Site features
-
 features:
   syntax_highlighter:
     theme_light: github-light
