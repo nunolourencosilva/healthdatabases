@@ -1,12 +1,12 @@
 ---
 # Display name
-title: Nelson Bighetti
+title: Nuno Lourenço Silva
 
 # Is this the primary user of the site?
 superuser: true
 
 # Role/position
-role: Python Instructor
+role: MD, PhD Student
 
 # Organizations/Affiliations
 organizations:
@@ -14,12 +14,11 @@ organizations:
     url: ''
 
 # Short bio (displayed in user profile at end of posts)
-bio: My research interests include distributed robotics, mobile computing and programmable matter.
+bio: This is an example bio.
 
 interests:
   - Artificial Intelligence
-  - Computational Linguistics
-  - Information Retrieval
+  - Medicine
 
 education:
   courses:
@@ -40,16 +39,13 @@ education:
 social:
   - icon: envelope
     icon_pack: fas
-    link: 'mailto:test@example.org'
-  - icon: twitter
-    icon_pack: fab
-    link: https://twitter.com/GeorgeCushen
+    link: 'mailto:up202203791@up.pt'
   - icon: github
     icon_pack: fab
     link: https://github.com/gcushen
 
 # Enter email to display Gravatar (if Gravatar enabled in Config)
-email: ''
+email: 'up202203791@up.pt'
 
 # Highlight the author in author lists? (true/false)
 highlight_name: false
@@ -59,5 +55,3 @@ highlight_name: false
 user_groups:
   - Teachers
 ---
-
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed neque elit, tristique placerat feugiat ac, facilisis vitae arcu. Proin eget egestas augue. Praesent ut sem nec arcu pellentesque aliquet. Duis dapibus diam vel metus tempus vulputate.
