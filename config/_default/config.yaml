@@ -1,5 +1,3 @@
-# This file is formatted using YAML syntax - learn more at https://learnxinyminutes.com/docs/yaml/
-
 title: 'Health Databases - HEADS @ FMUP' # Website name
 baseURL: 'https://healthdb.pt' # Website URL
 
