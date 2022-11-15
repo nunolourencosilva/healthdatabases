@@ -36,11 +36,11 @@ header:
 # Site footer
 footer:
   copyright:
-    notice: '© {2022} Nuno Lourenço Silva. This work is licensed under {license}'
+    notice: '© {2022}. This work is licensed under {license}'
     license:
       enable: true
       allow_derivatives: false
-      share_alike: true
+      share_alike: false
       allow_commercial: false
 
 # Localization
